@@ -12,9 +12,14 @@
     left: 50%;
     transform: translate(-50%, -50%);
     width: 400px;
-    height: 50px;
+    height: auto;
 }
 
 .poem h1 {
-    font-style: normal;    
+    font-style: normal; 
+    margin: 0;  
+}
+
+.writer {
+    font-style: italic;
 }
